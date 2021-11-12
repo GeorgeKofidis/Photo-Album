@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-imaging-1.0-alpha2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/commons-imaging-1.0-alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
